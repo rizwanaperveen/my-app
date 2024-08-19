@@ -1,7 +1,9 @@
 import Link from "next/link";
 export default function Home(){
   return(
+    
     <div className="text-sky-950 font-bold bg-red-300 text-center">
+    <title>Portfolio</title>
     <h1 className="border-4 hover:border-black h-32 text-2xl text-center p-12 underline">"HELLO WORLD"</h1>
     <header className="text-blue-900 body-font">
   <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
